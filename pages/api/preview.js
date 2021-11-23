@@ -26,3 +26,4 @@ export default async function preview(req, res) {
   res.writeHead(307, { Location: `/posts/${post?.PostItem?.slug}` })
   res.end()
 }
+// ui
