@@ -13,7 +13,7 @@ const Home = ({ allPosts, preview }) => {
 		<>
 			<Layout preview={preview}>
 				<Head>
-					<title>Next.js Blog Using Storyblok as CMS</title>
+					<title>Fortune's blog</title>
 				</Head>
 				<Container>
 					<Intro />
